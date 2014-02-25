@@ -48,7 +48,7 @@
       <file leaf-file-name="r2 Calulation.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/r2 Calulation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="20" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+            <state line="13" column="4" selection-start="447" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
               <folding />
             </state>
           </provider>
@@ -79,7 +79,7 @@
       <file leaf-file-name="project3-3.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project3-3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="22" selection-start="3433" selection-end="3433" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="1485">
+            <state line="73" column="40" selection-start="2644" selection-end="2659" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="1485">
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -87,11 +87,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project3-4.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="project3-4.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project3-4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-              <folding />
+            <state line="17" column="39" selection-start="629" selection-end="644" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project3-5.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project3-5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="20" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project3-6.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project3-6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="0" selection-start="2151" selection-end="2151" vertical-scroll-proportion="0.9578652" vertical-offset="8" max-vertical-offset="780">
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,6 +138,8 @@
         <option value="$PROJECT_DIR$/cost function.py" />
         <option value="$PROJECT_DIR$/project3-3.py" />
         <option value="$PROJECT_DIR$/project3-4.py" />
+        <option value="$PROJECT_DIR$/project3-5.py" />
+        <option value="$PROJECT_DIR$/project3-6.py" />
       </list>
     </option>
   </component>
@@ -362,22 +388,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/r2 Calulation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="20" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project3-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="0" selection-end="1586" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ttest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="17" selection-start="1584" selection-end="1584" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
@@ -405,9 +415,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/r2 Calulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="447" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project3-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="0" selection-end="1586" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project3-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="22" selection-start="3433" selection-end="3433" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="1485">
+        <state line="73" column="40" selection-start="2644" selection-end="2659" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="1485">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project3-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="20" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -416,8 +451,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project3-4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <folding />
+        <state line="17" column="39" selection-start="629" selection-end="644" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project3-6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="2151" selection-end="2151" vertical-scroll-proportion="0.9578652" vertical-offset="8" max-vertical-offset="780">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

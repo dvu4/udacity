@@ -44,7 +44,7 @@
       <file leaf-file-name="Project 5b.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project 5b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="27" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+            <state line="24" column="57" selection-start="777" selection-end="777" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="Project 5c.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project 5c.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="54" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+            <state line="25" column="8" selection-start="816" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
@@ -62,16 +62,36 @@
       <file leaf-file-name="Projects5-1 Reducer.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects5-1 Reducer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+            <state line="10" column="40" selection-start="0" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Project5-1 Mapper.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Projects5-2 Mapper.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects5-2 Mapper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="48" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Projects5-2 Reducer.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Projects5-2 Reducer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="26" selection-start="0" selection-end="768" vertical-scroll-proportion="0.43448275" vertical-offset="0" max-vertical-offset="725">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project5-1 Mapper.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project5-1 Mapper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="894" selection-end="894" vertical-scroll-proportion="0.6" vertical-offset="0" max-vertical-offset="725">
+            <state line="20" column="4" selection-start="711" selection-end="883" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -93,8 +113,10 @@
         <option value="$PROJECT_DIR$/Project 5b.py" />
         <option value="$PROJECT_DIR$/Project 5c.py" />
         <option value="$PROJECT_DIR$/temp.py" />
-        <option value="$PROJECT_DIR$/Projects5-1 Reducer.py" />
         <option value="$PROJECT_DIR$/Project5-1 Mapper.py" />
+        <option value="$PROJECT_DIR$/Projects5-1 Reducer.py" />
+        <option value="$PROJECT_DIR$/Projects5-2 Mapper.py" />
+        <option value="$PROJECT_DIR$/Projects5-2 Reducer.py" />
       </list>
     </option>
   </component>
@@ -397,13 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project 5b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="27" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project 5a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
@@ -411,26 +426,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects5-1 Reducer.py">
+    <entry file="file://$PROJECT_DIR$/Project 5b.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project 5c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="54" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+        <state line="24" column="57" selection-start="777" selection-end="777" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project5-1 Mapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="894" selection-end="894" vertical-scroll-proportion="0.6" vertical-offset="0" max-vertical-offset="725">
+        <state line="20" column="4" selection-start="711" selection-end="883" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects5-2 Mapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="48" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects5-1 Reducer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="40" selection-start="0" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 5c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="8" selection-start="816" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects5-2 Reducer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="26" selection-start="0" selection-end="768" vertical-scroll-proportion="0.43448275" vertical-offset="0" max-vertical-offset="725">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Project 4-1.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Project 4-1.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project 4-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="32" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="750">
+            <state line="24" column="32" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.46122995" vertical-offset="0" max-vertical-offset="748">
               <folding />
             </state>
           </provider>
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Project4-1-1.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Project4-1-1.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project4-1-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="4" selection-start="898" selection-end="936" vertical-scroll-proportion="0.421123" vertical-offset="0" max-vertical-offset="748">
+            <state line="26" column="39" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
               <folding />
             </state>
           </provider>
@@ -99,6 +99,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -119,7 +120,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +260,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="294" y="22" width="963" height="845" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -274,11 +274,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -298,6 +298,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Project 4-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project 4-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="15" selection-start="1925" selection-end="1925" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project4-1-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="4" selection-start="898" selection-end="936" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Project 4-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="32" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
@@ -347,16 +368,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project 4-1.py">
+    <entry file="file://$PROJECT_DIR$/Project4-1-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="32" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+        <state line="26" column="39" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project4-1-1.py">
+    <entry file="file://$PROJECT_DIR$/Project 4-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="4" selection-start="898" selection-end="936" vertical-scroll-proportion="0.421123" vertical-offset="0" max-vertical-offset="748">
+        <state line="24" column="32" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.46122995" vertical-offset="0" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
